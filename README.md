@@ -26,8 +26,8 @@ The `FileListResponse` struct represents the JSON response format, including the
 1. Clone this repository and navigate to the project directory:
 
 ```
-git clone https://github.com/AIbnuHibban/gcs-file-list-pagination.git
-cd gcs-file-list-pagination
+git clone https://github.com/AIbnuHIbban/list-files-gcs-pagination.git
+cd list-files-gcs-pagination
 ```
 2. Replace the `bucketInfo` in `main.go` with your GCS bucket information and the `gcp_credential.json` file with your GCP service account key.
 
